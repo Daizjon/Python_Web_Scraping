@@ -1,7 +1,7 @@
 # Python_Web_Scraping
 Web scraping implementation that was used for a bigger project.
 
-## This is an upgraded version of the weather scrapper. Improvements include:
+## This is the most recent version of the weather scrapper. Improvements include:
 + <b>One file.</b> Instead of using config.py, utils.py, parser.py, UnitConverter.py,  and weatherstation.txt we have one file that does it all with a cleaned up version of code. <br>
 + <b>Command line arguments.</b> Instead of hard coding the range of dates we can take the values at command line. <br>
 + <b>Range of dates.</b> Instead of picking a number like 5 which would display the last 5 days, users can now imput a range of days. <br>
